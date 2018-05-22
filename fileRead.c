@@ -7,7 +7,7 @@ int main()
     FILE *fp;
     char a[MAXSIZE];
     int b,c[MAXSIZE],len=0,i;
-    //нд╪Ч╤ах║
+    //Ф√┤Д╩╤Х╞╩Е▐√
 
     if((fp = fopen("z:\\number.txt","r"))==NULL)
     {
